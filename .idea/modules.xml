@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bigdata-dao.iml" filepath="$PROJECT_DIR$/bigdata-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigdata-dao-kafka/bigdata-dao-kafka.iml" filepath="$PROJECT_DIR$/bigdata-dao-kafka/bigdata-dao-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigdata-dao-redis/bigdata-dao-redis.iml" filepath="$PROJECT_DIR$/bigdata-dao-redis/bigdata-dao-redis.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="bigdata-tools">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\lxf\my-study-workspace\bigdata-tools\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 2" modules="bigdata-tools-redis">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\lxf\my-study-workspace\bigdata-tools\bigdata-tools-redis\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 3" modules="bigdata-dao-redis">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\lxf\my-study-workspace\bigdata-dao\bigdata-dao-redis\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>
